@@ -251,3 +251,8 @@ button{
     height: 70px;
     gap: 50px;
 }
+@media (max-width: 600px) {
+  body {
+    width: 90%;
+    padding: 20px;
+  }
